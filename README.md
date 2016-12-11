@@ -44,7 +44,7 @@ approved when they align.
 * Show your sketches to another group of students and explain how the project on each page relates to your mission
 * Find our what part of each sketch is best liked by the other group - write notes on what they liked best
 
-#### Test
+#### Test &amp; Adjust
 
 * Adjust your design (take the best parts of each design)
 * Create this web page using the provided template
@@ -61,5 +61,7 @@ approved when they align.
 5. Put your Org name centered at the top of the webpage
 6. Include an image of your logo
 7. Add your mission to the page
-8. Complete your web page project report 1
-9. Link to your Web page project report 1
+8. Publish your website (go to your project settings and in the **GitHub Pages** area choose **master branch** to be your source for the webpage)
+9. Complete your web page project report 1 (include photos of your sketches) AND Link this report to your main web page
+10. Share this link with your investors for approval
+11. Move on to your next project
