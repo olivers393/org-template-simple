@@ -13,7 +13,7 @@ to roll back as needed, and shared work (submitting & reviewing -- pull requests
 
 ## Design
 
-[[http://dschool.stanford.edu/dgift/]]
+[Design Thinking Founders](http://dschool.stanford.edu/dgift/)
 
 #### Task Overview
 
