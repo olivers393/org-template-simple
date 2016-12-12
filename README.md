@@ -16,6 +16,7 @@ to roll back as needed, and shared work (submitting & reviewing -- pull requests
 ## Design Thinking
 adapted for this course -- see:
 [Design Thinking Founders](http://dschool.stanford.edu/dgift/)
+and [ideou](http://www.ideou.com)
 
 #### Task Overview
 
