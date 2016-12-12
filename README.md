@@ -13,8 +13,9 @@ These basic work flow and information sharing skills are critical for all your p
 * **Git** workflow - branches (master and development branches), the ability
 to roll back as needed, and shared work (submitting & reviewing -- pull requests)
 
-## Design - adapted for this course -- see: [Design Thinking Founders](http://dschool.stanford.edu/dgift/) here is a graphical summary.
-![design thinking graphic](images/design-thinking.png)
+## Design Thinking
+adapted for this course -- see:
+[Design Thinking Founders](http://dschool.stanford.edu/dgift/)
 
 #### Task Overview
 
@@ -82,3 +83,7 @@ approved when they align.
 ## Share
 1. Share this link with your investors for approval
 2. Demo your project at home room
+
+## Design Thinking image for the curious
+Here is an image of Design Thinking:
+![design thinking graphic](images/design-thinking.png)
