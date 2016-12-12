@@ -1,7 +1,9 @@
-# Create an Organization
-Design an organization and document it (using simple html) so that your
-Investors (Angel Investors - for profit startup, Bosses - an established
-business unit, Donors - non-profit) can approve the projects and fund them.
+# Project Instructions
+
+## Mission (problem to solve)
+
+**Create and Document an Organization**
+Design an organization and document it (using simple html) so that your Investors (Angel Investors - for profit startup, Bosses - an established business unit, Donors - non-profit) can approve the projects and fund them.
 
 ## Technologies / Topics to Learn
 
@@ -11,9 +13,8 @@ These basic work flow and information sharing skills are critical for all your p
 * **Git** workflow - branches (master and development branches), the ability
 to roll back as needed, and shared work (submitting & reviewing -- pull requests)
 
-## Design
-
-[Design Thinking Founders](http://dschool.stanford.edu/dgift/)
+## Design - adapted for this course -- see: [Design Thinking Founders](http://dschool.stanford.edu/dgift/) here is a graphical summary.
+![design thinking graphic](images/design-thinking.png)
 
 #### Task Overview
 
@@ -32,25 +33,39 @@ approved when they align.
 * Create an organization mission - _Why does your organization design technology products?_
 * Create an organization logo
 
-#### Ideate
+#### Ideate - try out several ideas
 
 * Create 3 names and 3 logs
 * Choose 3 available projects that are interesting to you
 * Discuss within your team at least 3 different projects and how they fit within the context of your organization
 
-#### Prototype
+#### Prototype -- focused plan (choose a way forward)
 
 * Sketch 3 versions of your organization's website include: (Name, logo, mission and one project) -- **Take photos and print copies** (you can both scan and copy your sketches with the photocopier / printer)
 * Show your sketches to another group of students and explain how the project on each page relates to your mission
 * Find our what part of each sketch is best liked by the other group - write notes on what they liked best
 
-#### Test &amp; Adjust
+#### Prototype -- Smallify, Build and Test
 
 * Adjust your design (take the best parts of each design)
-* Create this web page using the provided template
+* Create this web page using the provided template - do commits in stages (**smallify** - your git logs will be checked to ensure you are doing this)
+
+**Smaller Parts**
+* Commit after successfully renaming web title (tab title) and the top header on the web page with the name of your Organization
+* Commit after writing and adding your Organization mission (have another student / group your progress at this point to ensure good grammar and cohesive content)
+* Commit after linking your template project summary
+* Commit after writing your project summary and adding photos
+* Have another student / group review your web pages (and make adjustments)
+
+**Integration**
+* Publish your website live on Github (go to settings - use the **Master branch**)
+* Make sure your website works - test it on both a computer and on a cell phone
+
+#### Prototype Adjust until Accepted
+
 * Show your Investors (teachers) this website when you are ready
 * Make adjustments as needed
-* Go live with your website when approved by investors
+* Your project will be linked to the class website when accepted by the investors
 
 ## Technical Steps
 
@@ -63,5 +78,7 @@ approved when they align.
 7. Add your mission to the page
 8. Publish your website (go to your project settings and in the **GitHub Pages** area choose **master branch** to be your source for the webpage)
 9. Complete your web page project report 1 (include photos of your sketches) AND Link this report to your main web page
-10. Share this link with your investors for approval
-11. Move on to your next project
+
+## Share
+1. Share this link with your investors for approval
+2. Demo your project at home room
