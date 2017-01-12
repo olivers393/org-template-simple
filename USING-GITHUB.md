@@ -28,7 +28,7 @@
 24. see if you like your changes in chrome - if so do a git **add + commit + push**
 25. when you and your teamate are happy with your site and report - show it to the **Angle Investors**
 26. BE SURE WHEN WE CLICK on the **Commits** button on the **code** page a similar number of commits from all team members are listed.
-27. Tags to understand: 
+27. Tags to understand *(Google is your friend)*: 
   * **title** - tab title
   * **h1**  - big body title
   * **h2**  - secondary body title
