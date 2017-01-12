@@ -14,10 +14,10 @@
 12. open your **Atom** editor
 13. add the **Git Plus** plugin -- *(Packages -> Settings View -> Manage Pakages -> Install)*
 14. Open your newly downloaded code in Atom
-15. One person on the team should change the organization name -- the other should write the "misson" sentence.
+15. One person on the team should change the organization name **h1** tag-- the other should write the "misson" sentence **h2**.
 16. now test (look at your webpage) in your browser *(Chrome)* -- **File -> Open File**
 15. if you like it do a git **Add and Commit**
-16. now do a git **pull** *(in csase your teammate made changes) 
+16. now do a git **pull** *(in csase your teammate made changes)*
 17. Now do a git **add + commit + push** (to share your changes).
 18. Now Both change the title of the **Mission statement** title to different things (so you can learn to resolve a git conflict -- *(resolving Conflicts are a part of teamwork ;-)
 19. now create a logo (& add this new image to your project & update the code link to the new image & remove the image already there
@@ -28,3 +28,22 @@
 24. see if you like your changes in chrome - if so do a git **add + commit + push**
 25. when you and your teamate are happy with your site and report - show it to the **Angle Investors**
 26. BE SURE WHEN WE CLICK on the **Commits** button on the **code** page a similar number of commits from all team members are listed.
+27. Tags to understand: 
+  * title - tab title
+  * h1  - big body title
+  * h2  - secondary body title
+  * h3  - tertiary body title
+  * p   - paragrap
+  * a   - associated link
+  * img - image link
+  * hr  - line separator (home rule)
+  * br  - line break
+  * ul & li - unorded (doted) list
+  * ol & li - ordered (numbered) list
+  * dl, dt & dd - definition list
+  * doctype
+  * html
+  * head
+  * body
+  * span
+  
