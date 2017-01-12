@@ -29,21 +29,21 @@
 25. when you and your teamate are happy with your site and report - show it to the **Angle Investors**
 26. BE SURE WHEN WE CLICK on the **Commits** button on the **code** page a similar number of commits from all team members are listed.
 27. Tags to understand: 
-  * title - tab title
-  * h1  - big body title
-  * h2  - secondary body title
-  * h3  - tertiary body title
-  * p   - paragrap
-  * a   - associated link
-  * img - image link
-  * hr  - line separator (home rule)
-  * br  - line break
-  * ul & li - unorded (doted) list
-  * ol & li - ordered (numbered) list
-  * dl, dt & dd - definition list
-  * doctype
-  * html
-  * head
-  * body
-  * span
+  * **title** - tab title
+  * **h1**  - big body title
+  * **h2**  - secondary body title
+  * **h3**  - tertiary body title
+  * **p**   - paragrap
+  * **a**   - associated link
+  * **img** - image link
+  * **hr**  - line separator (home rule)
+  * **br**  - line break
+  * **ul & li** - unorded (doted) list
+  * **ol & li** - ordered (numbered) list
+  * **dl, dt & dd** - definition list
+  * **doctype**
+  * **html**
+  * **head**
+  * **body**
+  * **span**
   
